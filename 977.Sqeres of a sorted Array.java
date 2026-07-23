@@ -18,7 +18,7 @@ class Solution {
                 result[index] = rightSquare;
                 right--;
             }
-            index--; // Note: The bottom of the loop and return statement are cut off on the screen
+            index--; 
         }
         return result;
     }
